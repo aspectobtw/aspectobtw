@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.cloudflare.steamstatic.com/24f2ea26a019e5ef667c1bcc4ae6d98d974ed7e8_full.jpg)
+
 <h1 align="center">Hi 👋, I'm aspect</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
